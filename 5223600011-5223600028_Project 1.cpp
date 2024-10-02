@@ -1,5 +1,5 @@
 ///////////////////////////////////
-// 
+// Kelompok 2 
 //
 // OpenGL program to draw a cube.
 // 
